@@ -1,0 +1,4 @@
+com\online\online\processoInterface\ProcessoInterfaceRepository.class
+com\online\online\OnlineApplication.class
+com\online\online\processoController\ProcessoController.class
+com\online\online\processoEntity\ProcessoControleEntity.class
